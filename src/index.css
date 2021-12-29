@@ -12,6 +12,13 @@ h2 {
   text-align: center;
 }
 
+.card-body {
+  border: solid;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .list-group {
   width: 50%;
   margin: 0 auto;
